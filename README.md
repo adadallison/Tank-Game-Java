@@ -18,3 +18,14 @@ typically on ones desktop, where the folder will then be . An easier way might b
 download to your computer. To import the project correctly onto an IDE, open your IDE and selected “import project,” select the folder and then press Open. 
 Once the file is open, the Launcher class can run the project, or running the jar file in the jar folder can also do that.
 
+
+## How to Run Project:
+
+### Build JAR:
+Once the file is open on IntelliJ or another IDE, the Launcher class is where the main method is located, therefore this is where it can be ran. The jar file can also be selected to run the project. Once the project has successfully ran, the player begins the game by pressing start, or the space key. The game panel appears, and once a player loses, the end game panel appears telling the player that the game is over. Here the player must exit the game by pressing the exit bucon. If the player would like to play again, they can run the Launcher class by right clicking and pressing run, or running the jar the same way.
+
+### Game Controls and Rules:
+The two players use different keys to control their movements. Each player can move forwards, backwards, rotate, lee or right, and shoot bullets. Player 1 uses the up, down, lee, right, and enter arrows to navigate. Each key does that is implied, the enter key is for shoo+ng bullets. Player 2 uses the W (up), S (down), A (rotate lee), D (rotate right) and F (shoot bullets) keys. To
+ 
+begin the game once the start panel appears, the player can press the space key to begin playing instead of clicking Start.
+The only rules are that aeer having 5 lives while having 100 health count, the mushrooms and coins (power-ups) are no longer effec+ve. Players die when they have zero, lives and this will make them lose the game. They also have a bulletproof power-up, the other players bullets are not effec+ve.
