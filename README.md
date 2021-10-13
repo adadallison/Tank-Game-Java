@@ -29,3 +29,6 @@ The two players use different keys to control their movements. Each player can m
  
 begin the game once the start panel appears, the player can press the space key to begin playing instead of clicking Start.
 The only rules are that aeer having 5 lives while having 100 health count, the mushrooms and coins (power-ups) are no longer effective. Players die when they have zero, lives and this will make them lose the game. They also have a bulletproof power-up, the other players bullets are not effective.
+
+
+*read more in depth overview of project the Documentation PDF
