@@ -11,7 +11,7 @@ with two kinds of power ups; one power up gives the player an extra life, anothe
 a certain amount of +me. Each player starts out with 3 lives and is able to obtain a maximum of 5 lives; 1 life = 100 health counts, and each bullet fired at a 
 tank reduces its health count by 10. Once the game is over, we are told which player won, and the player can exit.
 
-## Import:
+## How to Build/Import Project:
 Once you copy the HTTP link from GitHub, from my repository, you can use your terminal to perform git clone and it will clone a local repository,
 typically on ones desktop, where the folder will then be . An easier way might be to go to GitHub and search for the GitHub repository link 
 (https://github.com/adadallison/Tank-Game-Java). If you press code, now you can see ‘Download ZIP files,’ which will allow the folder to directly
