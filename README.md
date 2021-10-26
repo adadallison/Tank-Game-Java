@@ -2,9 +2,9 @@
 
 
 ## Project Overview:
-My project is a typical Tank Wars game where two players exist that, each with the objec+ve to win the game by firing bullets at the other player until 
+My project is a typical Tank Wars game where two players exist that, each with the objective to win the game by firing bullets at the other player until 
 the other player has no more lives. The game is Super Mario Bros. themed, and uses power ups to replenish players’ health, lives, and give them bulletproof 
-abili+es. To realize this game Java Swing and other libraries to develop GUIs. The game allows two players, and the objec+ve is to basically not die. The tanks 
+abilities. To realize this game Java Swing and other libraries to develop GUIs. The game allows two players, and the objec+ve is to basically not die. The tanks 
 are able to shoot one another and reduce the health count and life count of the other tank, and if they life count of one tank reaches zero, then that player 
 loses. They play the game within the game panel, and also shoot breakable walls to create navigate more easily. Throughout the game a player can replenish itself 
 with two kinds of power ups; one power up gives the player an extra life, another replenishes its health, and the other allows the player to be bullet proof for
